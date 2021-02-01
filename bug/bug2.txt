@@ -1,0 +1,5 @@
+[0-1-6-10-13]
+0 1 click find_elements_by_id("android:id/button1")[0]
+1 6 click find_elements_by_id("org.moire.opensudoku:id/sudoku_lists_button")[0]
+6 10 click find_elements_by_accessibility_id("More options")[0]
+10 13 click find_elements_by_class_name("android.widget.LinearLayout")[2]
